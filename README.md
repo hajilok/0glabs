@@ -21,3 +21,25 @@
 If got bug you can Send feadback on https://t.me/makmum
 
 # Install
+```
+git clone https://github.com/hajilok/0glabs
+```
+```
+cd 0glabs
+```
+```
+npm install
+```
+Input your Pk key wallet to wallet.txt 
+
+```
+nano wallet.txt
+```
+
+```
+screen -R 0glabs
+```
+
+```
+node index.js
+```
