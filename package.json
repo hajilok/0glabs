@@ -1,0 +1,25 @@
+{
+  "name": "oglabs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@0glabs/0g-ts-sdk": "^0.2.6",
+    "axios": "^1.8.1",
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.1",
+    "figlet": "^1.8.0",
+    "install": "^0.13.0",
+    "npm": "^11.2.0",
+    "sharp": "^0.33.5",
+    "web3": "^4.16.0"
+  }
+}
