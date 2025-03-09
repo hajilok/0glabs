@@ -16,6 +16,13 @@
 - Using 0glabs Official Sdk To upload file
 - Swap ( Soon )
 
+Because the blockchain is dregs, this machine can only upload files once a day, but fortunately every day this machine will automatically upload 1 file to push tx.
+The Swap feature is still difficult and unstable so I just turned it off, but the machine framework is already on github.
+
+This machine is suitable for those who work on it but have difficulty uploading files to push tx
+
+This machine is still unstable
+
 # Support
 
 If got bug you can Send feadback on https://t.me/makmum
